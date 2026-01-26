@@ -5,3 +5,5 @@ print("Learning Python, Jenkins, Docker, and Kubernetes")
 print("This is my first public Python script!")
 print("Updated")
 print("Automation check")
+
+print(Typo - email notification check)
