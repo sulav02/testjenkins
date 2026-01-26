@@ -6,4 +6,4 @@ print("This is my first public Python script!")
 print("Updated")
 print("Automation check")
 
-print(Typo - email notification check)
+print(Typo - email notification check status)
